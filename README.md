@@ -1,4 +1,4 @@
-# Seminar-survival-analysis
+# Survival-analysis
 Some documents about survival analysis
 
 Some textbooks (EN)
