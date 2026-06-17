@@ -14,3 +14,6 @@ Moderate level: This book focuses on various regression models and model diagnos
 
 ## 3. Survival Analysis - A Self-Learning Text
 Easy level: The English version of the Japanese edition. 
+
+## 4. Applied survival analysis using R
+Easy level: This book contains basic analysis methods and R code examples. 
